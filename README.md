@@ -96,3 +96,6 @@ The dataset includes the following key fields:
 - data-visualization  
 - kpi-dashboard  
 - csv-data  
+
+## 🏷️ Tags
+`#PowerBI` `#Education-analytics` `#Student-performance` `#DataAnalytics` `#Academic-performance` `#DataVisualization` `#BusinessIntelligence` `#performance-analysis` `#interactive-dashboard` 
