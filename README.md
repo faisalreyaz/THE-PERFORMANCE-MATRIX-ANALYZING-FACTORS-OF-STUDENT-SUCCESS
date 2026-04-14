@@ -87,57 +87,13 @@ The dataset includes the following key fields:
 
 ![Dashboard Preview](https://github.com/faisalreyaz/THE-PERFORMANCE-MATRIX-ANALYZING-FACTORS-OF-STUDENT-SUCCESS/blob/main/Student%20Performance%20Dashboard.png)
 
----
+## 🏷️ Tags
 
-## ⚙️ How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/student-performance-dashboard.git
-   ```
-
-2. Open the dashboard file in your preferred tool:
-
-   * Power BI (`.pbix`) OR
-   * Tableau (`.twbx`)
-
-3. Load the dataset if required (`Student_Performance_Dataset.csv`)
-
-4. Explore insights using filters and visuals
-
----
-
-## 📈 Future Improvements
-
-* Add predictive modeling (e.g., grade prediction)
-* Include more demographic variables
-* Deploy as a web dashboard (Streamlit / Dash)
-* Real-time data integration
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👤 Author
-
-**Your Name**
-
-* GitHub: [yourusername](https://github.com/yourusername)
-* LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub!
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Data Analysis](https://img.shields.io/badge/Field-Data%20Analysis-blue)
+![Dashboard](https://img.shields.io/badge/Type-Dashboard-green)
+![Business Intelligence](https://img.shields.io/badge/Domain-Business%20Intelligence-orange)
+![Education Analytics](https://img.shields.io/badge/Domain-Education%20Analytics-purple)
+![CSV Data](https://img.shields.io/badge/Data-CSV-lightgrey)
+![KPI](https://img.shields.io/badge/Focus-KPIs-red)
+![Visualization](https://img.shields.io/badge/Focus-Data%20Visualization-teal)
