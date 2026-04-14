@@ -88,12 +88,11 @@ The dataset includes the following key fields:
 ![Dashboard Preview](https://github.com/faisalreyaz/THE-PERFORMANCE-MATRIX-ANALYZING-FACTORS-OF-STUDENT-SUCCESS/blob/main/Student%20Performance%20Dashboard.png)
 
 ## 🏷️ Tags
-
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Data Analysis](https://img.shields.io/badge/Field-Data%20Analysis-blue)
-![Dashboard](https://img.shields.io/badge/Type-Dashboard-green)
-![Business Intelligence](https://img.shields.io/badge/Domain-Business%20Intelligence-orange)
-![Education Analytics](https://img.shields.io/badge/Domain-Education%20Analytics-purple)
-![CSV Data](https://img.shields.io/badge/Data-CSV-lightgrey)
-![KPI](https://img.shields.io/badge/Focus-KPIs-red)
-![Visualization](https://img.shields.io/badge/Focus-Data%20Visualization-teal)
+- powerbi  
+- data-analysis  
+- dashboard  
+- business-intelligence  
+- education-analytics  
+- data-visualization  
+- kpi-dashboard  
+- csv-data  
